@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Divinity（feat. Amy Millan）",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2026-02-08T13:05:21.473387Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Divinity (feat. Amy Millan)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/01_Divinity_(feat._Amy_Millan)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Divinity (feat. Amy Millan)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/02_Divinity_(feat._Amy_Millan)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Divinity (feat. Amy Millan)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/03_Divinity_(feat._Amy_Millan)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Divinity (feat. Amy Millan)",
+      "artist": "PorterRobinsonVEVO",
+      "has_synced": true,
+      "path": "select/04_Divinity_(feat._Amy_Millan)_PorterRobinsonVEVO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Divinity (feat. Amy Millan) [ODESZA Remix]",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/05_Divinity_(feat._Amy_Millan)_[ODESZA_Remix]_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Divinity (feat. Amy Millan) (filous Remix)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/06_Divinity_(feat._Amy_Millan)_(filous_Remix)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Divinity (Feat. Amy Millan)",
+      "artist": "Porter Robinson & Madeon",
+      "has_synced": true,
+      "path": "select/07_Divinity_(Feat._Amy_Millan)_Porter_Robinson_&_Madeon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Divinity (Feat Amy Millan)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/08_Divinity_(Feat_Amy_Millan)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Divinity",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Divinity_Porter_Robinson.txt"
+    }
+  ]
+}
