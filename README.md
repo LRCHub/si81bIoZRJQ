@@ -1,52 +1,52 @@
-# Porter Robinson – Divinity (feat. Amy Millan)
+# Porter Robinson – Divinity（feat. Amy Millan）
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[01:46.27] Lean into my side
-[01:52.68] Never felt alive
-[01:58.63] Call the chants inside
-[02:02.83] 'We will wait for this
-[02:05.38] We will wait for this'
-[02:16.38] 
-[02:09.26] Lean into my side
-[02:14.62] Never felt alive
-[02:19.57] Call the chants inside
-[02:23.52] 'We will wait for this
-[02:26.67] We will wait for this'
-[02:37.67] 
-[02:30.10] Lean into my side
-[02:35.97] Never felt alive
-[02:41.23] Call the chants inside
-[03:13.36] 'We will wait for this
-[03:17.36] We will wait for this'
-[03:28.36] 
-[03:23.91] We will wait for this
-[03:29.39] We will wait for this
-[03:31.33] We will wait for this
-[03:45.62] We will wait for this
-[03:56.12] 
-[03:55.57] Lean into my side
-[04:01.22] Never felt alive
-[04:06.63] Call the chants inside
-[04:10.64] 'We will wait for this
-[04:13.33] We will wait for this'
-[04:24.33] 
-[04:17.39] Lean into my side
-[04:21.39] Never felt alive
+[01:46.20] Lean into my side
+[01:52.62] Never felt alive
+[01:58.03] Call the chants inside
+[02:02.28] 'We will wait for this
+[02:05.17] We will wait for this'
+[02:16.17] 
+[02:08.75] Lean into my side
+[02:14.09] Never felt alive
+[02:19.53] Call the chants inside
+[02:23.77] 'We will wait for this
+[02:26.56] We will wait for this'
+[02:37.56] 
+[02:30.16] Lean into my side
+[02:36.13] Never felt alive
+[02:40.85] Call the chants inside
+[03:13.34] 'We will wait for this
+[03:17.30] We will wait for this'
+[03:28.30] 
+[03:23.96] We will wait for this
+[03:29.37] We will wait for this
+[03:31.31] We will wait for this
+[03:45.68] We will wait for this
+[03:56.18] 
+[03:55.55] Lean into my side
+[04:00.81] Never felt alive
+[04:06.33] Call the chants inside
+[04:10.11] 'We will wait for this
+[04:13.17] We will wait for this'
+[04:24.17] 
+[04:17.09] Lean into my side
+[04:22.29] Never felt alive
 [04:27.49] Call the chants inside
 [04:38.49] 
-[04:59.86] We will wait for this
-[05:05.36] We will wait for this
-[05:10.83] We will wait for this
-[05:20.04] We will wait for this
-[05:30.54] 
+[04:59.83] We will wait for this
+[05:05.33] We will wait for this
+[05:10.89] We will wait for this
+[05:20.05] We will wait for this
+[05:30.55] 
 [05:20.54] Lean into my side
-[05:26.13] Never felt alive
-[05:32.47] Call the chants inside
-[05:43.47] 
-[05:41.98] Lean into my side
-[05:47.50] Never felt alive
-[05:53.24] Call the chains inside
-[05:57.00] You see right through me
+[05:26.10] Never felt alive
+[05:31.79] Call the chants inside
+[05:42.79] 
+[05:41.92] Lean into my side
+[05:47.68] Never felt alive
+[05:52.85] Call the chains inside
+[05:57.02] You see right through me
 ```
